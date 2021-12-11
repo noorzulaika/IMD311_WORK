@@ -1,0 +1,15 @@
+body
+    {
+        background-color: lightblue;
+    }
+table
+    {
+        border: 1px solid darkgreen;
+        border-collapse: collapse;
+        text-align: center;
+    }
+td,th
+    {
+        border: 1px solid darkgreen;
+        color: red;
+    }
